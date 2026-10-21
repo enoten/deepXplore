@@ -1,0 +1,9 @@
+torch
+transformers
+datasets
+accelerate
+numpy
+pandas
+matplotlib
+sentencepiece
+safetensors
